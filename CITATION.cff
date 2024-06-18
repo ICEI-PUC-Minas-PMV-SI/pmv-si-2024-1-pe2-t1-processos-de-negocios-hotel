@@ -1,18 +1,18 @@
 # YAML 1.2
 ---
 authors: 
-  - family-names: sobrenome do aluno 1
-    given-names: Nome do aluno 1 
-  - family-names: sobrenome do aluno 2
-    given-names: Nome do aluno 2 
-  - family-names: sobrenome do aluno 3
-    given-names: Nome do aluno 3 
-  - family-names: sobrenome do aluno 4
-    given-names: Nome do aluno 4 
-  - family-names: sobrenome do aluno 5
-    given-names: Nome do aluno 5 
-  - family-names: sobrenome do aluno 6
-    given-names: Nome do aluno 6
+  - family-names: Fortes de Morais Carvalho
+    given-names: Aline
+  - family-names: Inácio Ribas
+    given-names: Marina
+  - family-names: Valadares de Oliveira Freitas
+    given-names: Mateus
+  - family-names: Fortes de Morais Carvalho
+    given-names: Nataly 
+  - family-names: Pontes Borges
+    given-names: Nicolas
+  - family-names: Reis Francisco
+    given-names: Vítor César
     
   - name-suffix: Professor
     affiliation: PUC Minas
@@ -30,15 +30,18 @@ authors:
 cff-version: "1.1.0"
 keywords: 
   - "Modelagem de Processos de Negócios"
-  - "Palavra chave 2"
-  - "Palavra chave 3"
+  - "Hotel"
+  - "Pet Friendly"
+  - "Sydle ONE"
 message: |
     "If you use this software, please cite it using these metadata.
     Se você utilizar este software, por favor cite-o utilizando estes metadados."
-repository-code: "https://github.com/url do projeto"
-title: "Título do projeto"
+repository-code: "https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-1-pe2-t1-processos-de-negocios-hotel"
+title: "Processos de negócios - Hotel"
 abstract: |
     "
-    Breve descrição do projeto
+  Muitos hotéis ainda operam com processos manuais suscetíveis a erros como overbooking e falhas no registro de informações, comprometendo a qualidade do serviço. A proposta dessa aplicação é apresentar um software especializado para automatizar e integrar processos operacionais, incluindo a gestão de reservas, controle de políticas e taxas relacionadas aos pets, e registro detalhado dos animais, além de integrar serviços adicionais como pet shops e clínicas veterinárias. Isso não só facilita o relacionamento com leads e clientes, mas também melhora a a satisfação e fidelização dos hóspedes, impulsionando o crescimento e a competitividade no setor.
+
+  Utilizou-se como base a Ferramenta Empresarial Sydle ONE para centralizar banco e classe de dados, automações de processos e _analytics_.
     "
 ...
